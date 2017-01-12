@@ -7,5 +7,5 @@
 - bugly_crash_ypcos4.jar
 
 ### 注意 ####
-### 从1.4.3之后的jar包，需要导入bugly_crash_ypcos4.jar包 ###
+### 从1.4.2.1(包括1.4.2.1）之后的jar包，需要导入bugly_crash_ypcos4.jar包 （支持异常上传功能）###
 更多示例可参考Demo
